@@ -1,5 +1,5 @@
 function App() {
-  return <p>Initial setup done</p>;
+  return <p data-testid="p-initial-setup">Initial setup done</p>;
 }
 
 export default App;
